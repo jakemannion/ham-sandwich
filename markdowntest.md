@@ -6,7 +6,7 @@
 * bulleted
 * list
 
-<p style="text-align: center"> Center your chair </p>
+<p style="text-align: center; align: center"> Center your chair </p>
 
 <div align="center"> Center your face </div>
 
