@@ -6,11 +6,11 @@
 * bulleted
 * list
 
-<p style="text-align: center; align: center"> Center your chair </p>
+<p style="text-align: center; align: center"> Center your paragraph </p>
 
-<div align="center"> Center your face </div>
+<div align="center"> Center your div </div>
 
 <span style="text-align: right"> Span your span to nowhere's span </span>
 
 
-doop doop dah doop
+#### doop doop dah doop
